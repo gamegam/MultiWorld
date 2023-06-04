@@ -1,6 +1,6 @@
 ---
 branches:
-  - api/pm5
+  - pm5
 projects:
   MultiWorld:
     path: ''
